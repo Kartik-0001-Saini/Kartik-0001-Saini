@@ -1,148 +1,182 @@
-<svg width="100%" viewBox="0 0 680 240" role="img" xmlns="http://www.w3.org/2000/svg">
-  <title>Kartik Saini — Premium Dark GitHub Banner</title>
-  <desc>Dark navy hacker-style banner with teal, cyan and gold accents for Kartik Saini AI/ML Engineer</desc>
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#060D1F"/>
-      <stop offset="50%" style="stop-color:#091628"/>
-      <stop offset="100%" style="stop-color:#041510"/>
-    </linearGradient>
-    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00FFB2"/>
-      <stop offset="45%" style="stop-color:#E8FAFF"/>
-      <stop offset="100%" style="stop-color:#00D4FF"/>
-    </linearGradient>
-    <linearGradient id="tealSweep" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00FFB2;stop-opacity:0"/>
-      <stop offset="35%" style="stop-color:#00FFB2;stop-opacity:0.6"/>
-      <stop offset="65%" style="stop-color:#00D4FF;stop-opacity:0.5"/>
-      <stop offset="100%" style="stop-color:#00D4FF;stop-opacity:0"/>
-    </linearGradient>
-    <linearGradient id="goldSweep" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#F59E0B;stop-opacity:0"/>
-      <stop offset="50%" style="stop-color:#FBBF24;stop-opacity:0.75"/>
-      <stop offset="100%" style="stop-color:#F59E0B;stop-opacity:0"/>
-    </linearGradient>
-    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#00FFB2;stop-opacity:0.5"/>
-      <stop offset="50%" style="stop-color:#00D4FF;stop-opacity:0.3"/>
-      <stop offset="100%" style="stop-color:#FBBF24;stop-opacity:0.4"/>
-    </linearGradient>
-    <radialGradient id="orb1" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" style="stop-color:#00FFB2;stop-opacity:0.22"/>
-      <stop offset="100%" style="stop-color:#00FFB2;stop-opacity:0"/>
-    </radialGradient>
-    <radialGradient id="orb2" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" style="stop-color:#00D4FF;stop-opacity:0.2"/>
-      <stop offset="100%" style="stop-color:#00D4FF;stop-opacity:0"/>
-    </radialGradient>
-    <radialGradient id="orb3" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" style="stop-color:#FBBF24;stop-opacity:0.16"/>
-      <stop offset="100%" style="stop-color:#FBBF24;stop-opacity:0"/>
-    </radialGradient>
-    <clipPath id="clip">
-      <rect x="0" y="0" width="680" height="240" rx="20"/>
-    </clipPath>
-  </defs>
+<div align="center">
 
-  <g clip-path="url(#clip)">
-    <rect width="680" height="240" fill="url(#bg)"/>
+<!-- BANNER — paste kartik_banner.svg into your repo root, then this img tag works -->
+<img src="./kartik_banner.svg" width="100%" alt="Kartik Saini — AI/ML Engineer" />
 
-    <ellipse cx="70" cy="60" rx="200" ry="150" fill="url(#orb1)"/>
-    <ellipse cx="610" cy="190" rx="210" ry="150" fill="url(#orb2)"/>
-    <ellipse cx="340" cy="230" rx="180" ry="100" fill="url(#orb3)"/>
-    <ellipse cx="560" cy="30" rx="130" ry="80" fill="url(#orb1)" opacity="0.45"/>
-    <ellipse cx="160" cy="210" rx="110" ry="70" fill="url(#orb2)" opacity="0.35"/>
+<br/><br/>
 
-    <g fill="#00FFB2" opacity="0.2">
-      <circle cx="44" cy="24" r="1.5"/><circle cx="60" cy="24" r="1.5"/><circle cx="76" cy="24" r="1.5"/><circle cx="92" cy="24" r="1.5"/>
-      <circle cx="44" cy="40" r="1.5"/><circle cx="60" cy="40" r="1.5"/><circle cx="76" cy="40" r="1.5"/><circle cx="92" cy="40" r="1.5"/>
-      <circle cx="44" cy="56" r="1.5"/><circle cx="60" cy="56" r="1.5"/><circle cx="76" cy="56" r="1.5"/><circle cx="92" cy="56" r="1.5"/>
-    </g>
-    <g fill="#00D4FF" opacity="0.2">
-      <circle cx="588" cy="184" r="1.5"/><circle cx="604" cy="184" r="1.5"/><circle cx="620" cy="184" r="1.5"/><circle cx="636" cy="184" r="1.5"/>
-      <circle cx="588" cy="200" r="1.5"/><circle cx="604" cy="200" r="1.5"/><circle cx="620" cy="200" r="1.5"/><circle cx="636" cy="200" r="1.5"/>
-      <circle cx="588" cy="216" r="1.5"/><circle cx="604" cy="216" r="1.5"/><circle cx="620" cy="216" r="1.5"/><circle cx="636" cy="216" r="1.5"/>
-    </g>
-    <g fill="#FBBF24" opacity="0.25">
-      <circle cx="340" cy="14" r="1.5"/><circle cx="356" cy="14" r="1.5"/><circle cx="324" cy="14" r="1.5"/>
-    </g>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=900&color=00FFB2&center=true&vCenter=true&width=700&lines=Engineering+Student+%7C+AI%2FML+Builder+%F0%9F%A4%96;500%2B+Problems+Solved+Across+Platforms+%F0%9F%8F%86;NLP+%7C+LLM+Integration+%7C+Prompt+Engineering;Turning+Ideas+into+Intelligent+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-    <g stroke="#00FFB2" stroke-width="1.2" fill="none" opacity="0.55">
-      <path d="M24,20 L14,20 L14,36"/>
-      <path d="M656,20 L666,20 L666,36"/>
-      <path d="M24,220 L14,220 L14,204"/>
-      <path d="M656,220 L666,220 L666,204"/>
-    </g>
+</div>
 
-    <line x1="24" y1="14" x2="656" y2="14" stroke="#00FFB2" stroke-width="0.4" opacity="0.3"/>
-    <line x1="24" y1="226" x2="656" y2="226" stroke="#FBBF24" stroke-width="0.4" opacity="0.3"/>
+---
 
-    <g opacity="0.6">
-      <circle cx="642" cy="36" r="2.2" fill="#FBBF24"/>
-      <circle cx="634" cy="30" r="1.2" fill="#FBBF24" opacity="0.5"/>
-      <circle cx="38" cy="210" r="2.2" fill="#00FFB2"/>
-      <circle cx="46" cy="218" r="1.2" fill="#00FFB2" opacity="0.5"/>
-      <circle cx="340" cy="10" r="1.8" fill="#00D4FF" opacity="0.7"/>
-      <circle cx="520" cy="228" r="1.5" fill="#00FFB2" opacity="0.4"/>
-      <circle cx="165" cy="228" r="1.5" fill="#FBBF24" opacity="0.4"/>
-    </g>
+## 👤 About Me
 
-    <line x1="0" y1="128" x2="680" y2="128" stroke="url(#tealSweep)" stroke-width="0.7" opacity="0.55"/>
+I'm an engineering student with a strong passion for **AI/ML and problem-solving**. I enjoy building intelligent systems that automate real-world tasks and improve efficiency. With a solid foundation in **Data Structures and Algorithms using C++**, I focus on developing scalable and practical AI solutions — particularly in **Machine Learning and NLP**.
 
-    <text x="340" y="88"
-      text-anchor="middle"
-      font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-      font-size="50" font-weight="800" letter-spacing="1.5"
-      fill="#00FFB2" opacity="0.07">KARTIK SAINI</text>
+- 🎓 Engineering student actively building end-to-end AI/ML systems
+- 🤖 Passionate about automating real-world tasks using intelligent pipelines
+- 🧠 Interested in NLP, LLM integration, and Prompt Engineering
+- 🏆 **Solved 500+ problems across platforms — 300+ on LeetCode alone**
+- 🔧 Strong DSA foundation in C++ driving efficient, scalable solutions
+- 🤝 Open to collaborating on AI/ML projects and open-source initiatives
+- 📬 **kartiksaini7988@gmail.com**
 
-    <text x="341" y="85"
-      text-anchor="middle"
-      font-family="'Segoe UI', 'SF Pro Display', Arial, sans-serif"
-      font-size="50" font-weight="800" letter-spacing="1.5"
-      fill="url(#nameGrad)">Kartik Saini</text>
+---
 
-    <text x="340" y="112"
-      text-anchor="middle"
-      font-family="'Segoe UI', Arial, sans-serif"
-      font-size="12.5" font-weight="400" letter-spacing="4"
-      fill="#7FD4E8" opacity="0.8">AI / ML ENGINEER  ·  NLP  ·  PROBLEM SOLVER</text>
+## 🌐 Connect
 
-    <line x1="170" y1="125" x2="510" y2="125" stroke="url(#tealSweep)" stroke-width="0.8"/>
+<div align="center">
 
-    <rect x="114" y="141" width="136" height="30" rx="15"
-      fill="#00FFB2" fill-opacity="0.08"
-      stroke="#00FFB2" stroke-opacity="0.45" stroke-width="0.8"/>
-    <text x="182" y="161"
-      text-anchor="middle"
-      font-family="'Fira Code', 'Courier New', monospace"
-      font-size="12" fill="#00FFB2">&#x1F3C6; 500+ Problems</text>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-saini11/)
+[![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartiksaini7988@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kartik-0001-Saini)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kartiksaini7988/)
 
-    <rect x="272" y="141" width="136" height="30" rx="15"
-      fill="#00D4FF" fill-opacity="0.08"
-      stroke="#00D4FF" stroke-opacity="0.45" stroke-width="0.8"/>
-    <text x="340" y="161"
-      text-anchor="middle"
-      font-family="'Fira Code', 'Courier New', monospace"
-      font-size="12" fill="#00D4FF">&#x26A1; LLM + NLP</text>
+</div>
 
-    <rect x="430" y="141" width="136" height="30" rx="15"
-      fill="#FBBF24" fill-opacity="0.08"
-      stroke="#FBBF24" stroke-opacity="0.45" stroke-width="0.8"/>
-    <text x="498" y="161"
-      text-anchor="middle"
-      font-family="'Fira Code', 'Courier New', monospace"
-      font-size="12" fill="#FBBF24">&#x1F680; C++ DSA</text>
+---
 
-    <line x1="170" y1="184" x2="510" y2="184" stroke="url(#goldSweep)" stroke-width="0.6" opacity="0.7"/>
+## 🏆 Competitive Programming
 
-    <text x="340" y="204"
-      text-anchor="middle"
-      font-family="'Fira Code', 'Courier New', monospace"
-      font-size="11" letter-spacing="0.8"
-      fill="#5BA8B8" opacity="0.75">Turning ideas into intelligent systems  ✦  Open to collaborate</text>
+<div align="center">
 
-    <rect x="2" y="2" width="676" height="236" rx="19"
-      fill="none" stroke="url(#borderGrad)" stroke-width="0.8" opacity="0.6"/>
-  </g>
-</svg>
+> ### 🔥 **500+ Problems Solved Across Platforms**
+> ### ⚡ **300+ Problems Solved on LeetCode**
+
+<br/>
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/kartiksaini7988?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=8)](https://leetcode.com/u/kartiksaini7988/)
+
+<br/>
+
+| 🌐 Platform | ✅ Problems Solved |
+|:-----------:|:-----------------:|
+| **LeetCode** | **300+** |
+| **Other Platforms** | **200+** |
+| **Total** | **500+** |
+
+</div>
+
+---
+
+## 🚀 Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Automated Model Training System
+> An AI pipeline that automates preprocessing, model selection, and hyperparameter tuning to identify the best-performing ML model — no manual trial and error needed.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-%230369a1?style=for-the-badge&logo=github)](https://github.com/Kartik-0001-Saini)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 E-commerce AI Chatbot Agent
+> An AI-powered chatbot leveraging NLP and LLM integration to handle customer queries, deliver smart product recommendations, and elevate user interaction experience.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-0c4a6e?style=flat-square)
+![LLM](https://img.shields.io/badge/LLM%20Integration-075985?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0369a1?style=flat-square)
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-%230369a1?style=for-the-badge&logo=github)](https://github.com/Kartik-0001-Saini)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 📝 AI-Driven Exam Evaluation System
+> An NLP-based system that evaluates subjective answers using semantic similarity techniques — ensuring consistent, fair, and scalable grading without human bias.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-0c4a6e?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Semantic Similarity](https://img.shields.io/badge/Semantic%20Similarity-075985?style=flat-square)
+
+[![View Repo](https://img.shields.io/badge/View%20Repository-%230369a1?style=for-the-badge&logo=github)](https://github.com/Kartik-0001-Saini)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+#### Machine Learning & Data Science
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+#### NLP & AI
+![NLP](https://img.shields.io/badge/NLP-0c4a6e?style=for-the-badge)
+![LLM Integration](https://img.shields.io/badge/LLM%20Integration-075985?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0369a1?style=for-the-badge)
+
+#### Core Concepts
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-1d4ed8?style=for-the-badge)
+![DSA in C++](https://img.shields.io/badge/DSA%20(C++)-1e40af?style=for-the-badge)
+
+#### Tools & IDEs
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kartik-0001-Saini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB2&icon_color=00D4FF&text_color=BAE6FD" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-0001-Saini&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB2&text_color=BAE6FD" width="40%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Kartik-0001-Saini&theme=tokyonight&hide_border=true&ring=00FFB2&fire=00D4FF&currStreakLabel=00FFB2&background=0d1117&stroke=0369a1&currStreakNum=BAE6FD&sideLabels=00FFB2&sideNums=BAE6FD&dates=0369a1" width="60%" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartik-0001-Saini&theme=tokyo-night&hide_border=true&area=true&line=00FFB2&point=00D4FF&color=BAE6FD&bg_color=0d1117&title_color=00FFB2&area_color=0369a1&radius=8&custom_title=Kartik's%20Contribution%20Graph" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+**If you found my work helpful, a ⭐ on the repo means a lot.**
+
+*"The best way to predict the future is to invent it." — Alan Kay*
+
+</div>
