@@ -1,11 +1,8 @@
 <div align="center">
 
-<!-- BANNER — paste kartik_banner.svg into your repo root, then this img tag works -->
-<img src="./kartik_banner.svg" width="100%" alt="Kartik Saini — AI/ML Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060D1F,40:0D2137,70:00FFB2,100:00D4FF&height=220&section=header&text=Kartik%20Saini&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20NLP%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descSize=18&descColor=BAE6FD" width="100%"/>
 
-<br/><br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=900&color=00FFB2&center=true&vCenter=true&width=700&lines=Engineering+Student+%7C+AI%2FML+Builder+%F0%9F%A4%96;500%2B+Problems+Solved+Across+Platforms+%F0%9F%8F%86;NLP+%7C+LLM+Integration+%7C+Prompt+Engineering;Turning+Ideas+into+Intelligent+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=00FFB2&center=true&vCenter=true&width=700&lines=Engineering+Student+%7C+AI%2FML+Builder+%F0%9F%A4%96;500%2B+Problems+Solved+Across+Platforms+%F0%9F%8F%86;NLP+%7C+LLM+Integration+%7C+Prompt+Engineering;Turning+Ideas+into+Intelligent+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -42,8 +39,8 @@ I'm an engineering student with a strong passion for **AI/ML and problem-solving
 
 <div align="center">
 
-> ### 🔥 **500+ Problems Solved Across Platforms**
-> ### ⚡ **300+ Problems Solved on LeetCode**
+> ### 🔥 500+ Problems Solved Across Platforms
+> ### ⚡ 300+ Problems Solved on LeetCode
 
 <br/>
 
@@ -150,14 +147,14 @@ I'm an engineering student with a strong passion for **AI/ML and problem-solving
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kartik-0001-Saini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB2&icon_color=00D4FF&text_color=BAE6FD" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-0001-Saini&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFB2&text_color=BAE6FD" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kartik-0001-Saini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060D1F&title_color=00FFB2&icon_color=00D4FF&text_color=BAE6FD" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-0001-Saini&layout=compact&theme=tokyonight&hide_border=true&bg_color=060D1F&title_color=00FFB2&text_color=BAE6FD" width="40%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Kartik-0001-Saini&theme=tokyonight&hide_border=true&ring=00FFB2&fire=00D4FF&currStreakLabel=00FFB2&background=0d1117&stroke=0369a1&currStreakNum=BAE6FD&sideLabels=00FFB2&sideNums=BAE6FD&dates=0369a1" width="60%" />
+<img src="https://streak-stats.demolab.com/?user=Kartik-0001-Saini&theme=tokyonight&hide_border=true&ring=00FFB2&fire=00D4FF&currStreakLabel=00FFB2&background=060D1F&stroke=00FFB2&currStreakNum=BAE6FD&sideLabels=00FFB2&sideNums=BAE6FD&dates=7FD4E8" width="60%" />
 
 </div>
 
@@ -167,11 +164,13 @@ I'm an engineering student with a strong passion for **AI/ML and problem-solving
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartik-0001-Saini&theme=tokyo-night&hide_border=true&area=true&line=00FFB2&point=00D4FF&color=BAE6FD&bg_color=0d1117&title_color=00FFB2&area_color=0369a1&radius=8&custom_title=Kartik's%20Contribution%20Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartik-0001-Saini&theme=tokyo-night&hide_border=true&area=true&line=00FFB2&point=00D4FF&color=BAE6FD&bg_color=060D1F&title_color=00FFB2&area_color=0D2137&radius=8&custom_title=Kartik's%20Contribution%20Graph" width="100%" />
 
 </div>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:00FFB2,100:060D1F&height=120&section=footer" width="100%"/>
 
 <div align="center">
 
