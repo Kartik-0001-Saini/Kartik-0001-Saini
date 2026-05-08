@@ -147,14 +147,16 @@ I'm an engineering student with a strong passion for **AI/ML and problem-solving
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kartik-0001-Saini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060D1F&title_color=00FFB2&icon_color=00D4FF&text_color=BAE6FD" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-0001-Saini&layout=compact&theme=tokyonight&hide_border=true&bg_color=060D1F&title_color=00FFB2&text_color=BAE6FD" width="40%" />
+<!-- Primary source -->
+<img src="https://github-readme-stats.vercel.app/api?username=Kartik-0001-Saini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060D1F&title_color=00FFB2&icon_color=00D4FF&text_color=BAE6FD&cache_seconds=1800" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-0001-Saini&layout=compact&theme=tokyonight&hide_border=true&bg_color=060D1F&title_color=00FFB2&text_color=BAE6FD&cache_seconds=1800" width="40%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Kartik-0001-Saini&theme=tokyonight&hide_border=true&ring=00FFB2&fire=00D4FF&currStreakLabel=00FFB2&background=060D1F&stroke=00FFB2&currStreakNum=BAE6FD&sideLabels=00FFB2&sideNums=BAE6FD&dates=7FD4E8" width="60%" />
+<!-- Streak stats — uses git.io reliable mirror -->
+<img src="https://streak-stats.demolab.com/?user=Kartik-0001-Saini&theme=tokyonight-duo&hide_border=true&ring=00FFB2&fire=00D4FF&currStreakLabel=00FFB2&background=060D1F&stroke=1C4F6E&currStreakNum=FFFFFF&sideLabels=00FFB2&sideNums=FFFFFF&dates=7FD4E8" width="60%" />
 
 </div>
 
